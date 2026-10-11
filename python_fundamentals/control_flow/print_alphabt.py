@@ -1,2 +1,7 @@
 #!/usr/bin/env python3
-print("abcdfghijklmnoprstuvwxyz")
+for letter in range(97, 123):
+    if letter != 101 and letter != 113:
+        print(
+            "{:c}".format(letter),
+            end="" if letter != 122 else "\n"
+        )
