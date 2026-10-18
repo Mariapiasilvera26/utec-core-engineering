@@ -26,3 +26,8 @@ values as zero.
 
 `common_elements.py` returns a new set containing the elements shared by two
 sets.
+
+## Updating a dictionary
+
+`update_dictionary.py` adds or replaces a key/value pair and returns the
+updated dictionary.
