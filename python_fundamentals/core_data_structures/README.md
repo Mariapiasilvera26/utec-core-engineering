@@ -31,3 +31,8 @@ sets.
 
 `update_dictionary.py` adds or replaces a key/value pair and returns the
 updated dictionary.
+
+## Finding the best score
+
+`best_score.py` returns the key for the highest integer value, or `None` when
+the dictionary is empty or `None`.
