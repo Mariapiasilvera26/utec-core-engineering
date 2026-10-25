@@ -17,3 +17,8 @@ integer.
 
 `safe_print_list_integers.py` prints integer values among the first `x` list
 elements on one line and returns the number printed.
+
+## Safe division
+
+`safe_print_division.py` divides two values safely, prints the result from a
+`finally` block, and returns the result or `None` when division fails.
