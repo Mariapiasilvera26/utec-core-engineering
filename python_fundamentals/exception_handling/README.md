@@ -12,3 +12,8 @@ one line and returns the number of elements printed.
 `safe_print_integer.py` prints a value using integer format and returns
 `True` when successful, or `False` when the value cannot be formatted as an
 integer.
+
+## Safe integer list printing
+
+`safe_print_list_integers.py` prints integer values among the first `x` list
+elements on one line and returns the number printed.
