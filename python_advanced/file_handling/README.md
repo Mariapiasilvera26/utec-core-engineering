@@ -8,4 +8,10 @@ Python exercises for reading and writing text files.
 
 ## Writing a file
 
-`write_file.py` writes text to a UTF-8 file and returns the number of characters written.
+`write_file.py` writes text to a UTF-8 file and returns the number of
+characters written.
+
+## Appending to a file
+
+`append_write.py` appends text to a UTF-8 file and returns the number of
+characters added.
