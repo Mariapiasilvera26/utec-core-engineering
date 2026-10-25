@@ -22,3 +22,7 @@ elements on one line and returns the number printed.
 
 `safe_print_division.py` divides two values safely, prints the result from a
 `finally` block, and returns the result or `None` when division fails.
+
+## Raising an exception
+
+`raise_exception.py` defines a function that raises a `TypeError`.
