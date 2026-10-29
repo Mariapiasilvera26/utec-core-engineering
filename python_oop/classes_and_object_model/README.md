@@ -15,3 +15,7 @@ its size.
 
 `2-square.py` validates that a square's private size is an integer greater
 than or equal to zero.
+
+## Square area
+
+`3-square.py` adds an instance method that returns the square's area.
