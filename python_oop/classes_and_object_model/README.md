@@ -28,3 +28,8 @@ than or equal to zero.
 ## Printing a square
 
 `5-square.py` prints the square using `#` characters.
+
+## Printing a positioned square
+
+`6-square.py` adds a validated `position` property and a string
+representation that prints the square at the requested offset.
