@@ -24,3 +24,7 @@ than or equal to zero.
 
 `4-square.py` provides a `size` property that validates updates and an
 `area()` method.
+
+## Printing a square
+
+`5-square.py` prints the square using `#` characters.
