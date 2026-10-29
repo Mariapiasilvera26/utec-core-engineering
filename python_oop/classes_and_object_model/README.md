@@ -38,3 +38,6 @@ representation that prints the square at the requested offset.
 
 `1-rectangle.py` defines a `Rectangle` class with validated `width` and
 `height` properties.
+
+`2-rectangle.py` adds methods to calculate the rectangle's area and
+perimeter.
