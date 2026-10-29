@@ -19,3 +19,8 @@ than or equal to zero.
 ## Square area
 
 `3-square.py` adds an instance method that returns the square's area.
+
+## Square size getter and setter
+
+`4-square.py` provides a `size` property that validates updates and an
+`area()` method.
