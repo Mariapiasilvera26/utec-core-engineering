@@ -33,3 +33,8 @@ than or equal to zero.
 
 `6-square.py` adds a validated `position` property and a string
 representation that prints the square at the requested offset.
+
+## Rectangle
+
+`1-rectangle.py` defines a `Rectangle` class with validated `width` and
+`height` properties.
