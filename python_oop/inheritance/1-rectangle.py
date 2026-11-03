@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """Define a rectangle that inherits geometry validation."""
 
-from base_geometry import BaseGeometry
+BaseGeometry = __import__("base_geometry").BaseGeometry
 
 
 class Rectangle(BaseGeometry):
